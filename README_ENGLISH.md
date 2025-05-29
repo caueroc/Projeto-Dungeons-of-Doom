@@ -49,7 +49,7 @@ In *Dungeons of Doom*, you are a brave adventurer who must face dangers and solv
 ### 🔧 Requirements
 
 - Windows OS (uses `<conio.h>` library)  
-- C-compatible compiler (e.g., GCC, Visual Studio Code etc...)
+- C-compatible compiler (e.g., GCC)
 
 ### ▶️ Compilation
 
@@ -64,15 +64,6 @@ gcc DungeonsOfDoom.c -o DungeonsOfDoom
 ```
 
 > **Note:** The game uses `system("cls")` to clear the screen, so use the terminal’s `cls` command when needed.
-
-## 🗃️ Code Organization
-
-Currently, the game is implemented in a single file:
-
-```
-📁 DungeonsOfDoom/
-└── DungeonsOfDoom.c
-```
 
 ## 👨‍💻 Credits
 

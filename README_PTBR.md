@@ -78,6 +78,6 @@ Atualmente, o jogo está implementado em um único arquivo:
 
 Desenvolvido por:
 
+- Daniel Barros 
 - Cauê Milhomem  
-- Daniel Barros  
 - Wisley Gabriel

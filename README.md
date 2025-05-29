@@ -49,7 +49,7 @@ Em *Dungeons of Doom*, você é um aventureiro corajoso que precisa enfrentar pe
 ### 🔧 Requisitos
 
 - Sistema operacional Windows (Devido ao uso da biblioteca `<conio.h>`)  
-- Compilador compatível com C (como GCC, Visual Studio Code etc...)
+- Compilador compatível com C (GCC, por exemplo)
 
 ### ▶️ Compilação
 

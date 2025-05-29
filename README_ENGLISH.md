@@ -49,7 +49,7 @@ In *Dungeons of Doom*, you are a brave adventurer who must face dangers and solv
 ### 🔧 Requirements
 
 - Windows OS (uses `<conio.h>` library)  
-- C-compatible compiler (e.g., GCC)
+- C-compatible compiler (e.g., GCC, Visual Studio Code etc...)
 
 ### ▶️ Compilation
 
@@ -78,6 +78,6 @@ Currently, the game is implemented in a single file:
 
 Developed by:
 
+- Daneil Barros
 - Cauê Milhomem  
-- Daniel Barros  
 - Wisley Gabriel

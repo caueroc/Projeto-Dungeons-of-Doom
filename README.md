@@ -65,15 +65,6 @@ gcc DungeonsOfDoom.c -o DungeonsOfDoom
 
 > **Nota:** Use `cls` no terminal para limpar a tela no Windows, já que o código usa `system("cls")`.
 
-## 🗃️ Organização do Código
-
-Atualmente, o jogo está implementado em um único arquivo:
-
-```
-📁 DungeonsOfDoom/
-└── DungeonsOfDoom.c
-```
-
 ## 👨‍💻 Créditos
 
 Desenvolvido por:
